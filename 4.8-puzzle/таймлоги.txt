@@ -1,0 +1,42 @@
+Твой тайминг с твоей Board и моим Solver
+               filename   N    seconds    insert()            delMin()         max PQ size
+---------------------------------------------------------------------------------------------
+=> passed  puzzle20.txt   3     0.03       1078                 647                 431         
+=> passed  puzzle21.txt   3     0.01       4654                2753                1901         
+=> passed  puzzle22.txt   3     0.01       2971                1750                1221         
+=> passed  puzzle23.txt   3     0.01       6479                3857                2622         
+=> passed  puzzle24.txt   3     0.01       6260                3788                2472         
+=> passed  puzzle25.txt   3     0.03      16095                9621                6474         
+=> passed  puzzle26.txt   3     0.02      10993                6536                4457         
+=> passed  puzzle27.txt   3     0.01      10537                6332                4205         
+=> passed  puzzle28.txt   3     0.03      21227               12655                8572         
+=> passed  puzzle29.txt   3     0.03      20878               12485                8393         
+=> passed  puzzle30.txt   3     0.03      43248               26137               17111         
+=> passed  puzzle31.txt   3     0.03      42729               25733               16996         
+=> passed  puzzle34.txt   4     0.27     350266              168032              182234         
+=> passed  puzzle37.txt   4     0.08     133208               64118               69090         
+=> passed  puzzle39.txt   4     0.07     139505               68031               71474         
+=> passed  puzzle41.txt   5     0.06      63524               27101               36423         
+=> passed  puzzle44.txt   5     0.15     135487               59734               75753  
+
+
+Мой тайминг с моей Board и моим Solver
+               filename   N    seconds    insert()            delMin()         max PQ size
+---------------------------------------------------------------------------------------------
+=> passed  puzzle20.txt   3     0.02        929                 553                 376         
+=> passed  puzzle21.txt   3     0.01       5104                3024                2080         
+=> passed  puzzle22.txt   3     0.01       3705                2212                1493         
+=> passed  puzzle23.txt   3     0.01       6091                3620                2471         
+=> passed  puzzle24.txt   3     0.01       6435                3900                2535         
+=> passed  puzzle25.txt   3     0.00       2753                1625                1128         
+=> passed  puzzle26.txt   3     0.01      11567                6906                4661         
+=> passed  puzzle27.txt   3     0.01       8342                5046                3296         
+=> passed  puzzle28.txt   3     0.02      23252               13905                9347         
+=> passed  puzzle29.txt   3     0.02      20567               12335                8232         
+=> passed  puzzle30.txt   3     0.03      39111               23750               15361         
+=> passed  puzzle31.txt   3     0.02      58859               35443               23416         
+=> passed  puzzle34.txt   4     0.24     417246              200335              216911         
+=> passed  puzzle37.txt   4     0.04      85972               41461               44511         
+=> passed  puzzle39.txt   4     0.11     183849               90070               93779         
+=> passed  puzzle41.txt   5     0.02      58334               24787               33547         
+=> passed  puzzle44.txt   5     0.07     123663               54869               68794  
